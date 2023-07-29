@@ -1,0 +1,2 @@
+# Download-CMIP6-data-using-parallel-processing-ESGF-cog-pyesgf
+This Python script optimizes CMIP6 data retrieval with parallel processing and PyESGF integration, enabling flexible data selection and organized model outputs. Efficiently analyze and compare data for climate research insights. It can attain the maximum download speed of your network, save data to different folders, and merge the same models.
